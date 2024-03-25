@@ -14,7 +14,7 @@ To use the Math Expression Evaluator, follow these steps:
     ```
 4. Run the application with the desired mathematical expression :
     ```bash
-    java Main 'atan(sqrt(sin(7/6)))+(-2*sin(4/6))'
+    java Main 'atan(sqrt(sin(7/6)))+(-2^sin(4/6))'
     ```
 
 ## Dependencies
